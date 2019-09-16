@@ -2,15 +2,58 @@
 public class Mississippi {
 
 	public static void main(String[] args) {
-		System.out.println("M         M   IIIIIIIIIIIII     SSSSSSSSS      SSSSSSSSSSS      IIIIIIIIIII                     ");
-		System.out.println("Mm       mM        III          SS             SS                   III                   ");
-		System.out.println("Mmm     mmM        III          SS             SS                   III               ");
-		System.out.println("MmmmmmmmmmM        III          SSSSSSSSS      SSSSSSSSSSS          III                 ");
-		System.out.println("M   MM    M        III                 SS               SS          III                 ");
-		System.out.println("M         M        III                 SS               SS          III                   ");
-		System.out.println("M         M        III          SSSSSSSSS      SSSSSSSSSSS     IIIIIIIIIII                        ");
-		System.out.println("M         M   IIIIIIIIIIIII                                                         ");
+		method1();
+		method2();
+		method3();
+		method3();
+		method2();
+		method3();
+		method3();
+		method2();
+		method4();
+		method4();
+		method2();
+	}
+	public static void method1() {
+	System.out.println("M         M");
+	System.out.println("Mm       mM");
+	System.out.println("Mmm     mmM");
+	System.out.println("MmmmmmmmmmM");
+	System.out.println("M   MM    M");
+	System.out.println("M         M");
+	System.out.println("M         M");
+	System.out.println("M         M");
+	}
+	public static void method2() {
+		System.out.println("IIIIIIIIIIIII                 ");
+		System.out.println("    III                    ");
+		System.out.println("    III                      ");
+		System.out.println("    III                   ");
+		System.out.println("    III                 ");
+		System.out.println("    III                       ");
+		System.out.println("    III                        ");
+		System.out.println("IIIIIIIIIIIII             ");
+	}
+	public static void method3() {
+		System.out.println("SSSSSSSSS                        ");
+		System.out.println("SS                            ");
+		System.out.println("SS                        ");
+		System.out.println("SSSSSSSSS                     ");
+		System.out.println("       SS                       ");
+		System.out.println("       SS                ");
+		System.out.println("SSSSSSSSS                    ");
+	}
+	public static void method4() {
+		System.out.println(" PPPPPPPPPP       ");
+		System.out.println(" PP      PP ");
+		System.out.println(" PP      PP      ");
+		System.out.println(" PPPPPPPPPP ");
+		System.out.println(" PP      ");
+		System.out.println(" PP       ");
+		System.out.println(" PP               ");
+		System.out.println(" PP               ");
+
 
 	}
-
+	
 }
