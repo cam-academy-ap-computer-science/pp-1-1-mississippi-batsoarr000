@@ -1,3 +1,8 @@
+/* Grading Notes
+25/25 points
+I don't think you need the extra spaces after some of the letters but I didn't deduct any points for this.
+-Sarah Gilliam
+*/
 
 public class Mississippi {
 
